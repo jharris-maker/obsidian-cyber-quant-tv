@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Obsidian Core AI — Sovereign Defense, Cyber &amp; Quant Intelligence TV</title>
+    <link>https://github.com/jharris-maker/obsidian-cyber-quant-tv</link>
+    <description>Autonomous Physical AI, CMMC 2.0 Zero-Trust Cybersecurity, and Kalshi/Polymarket Quantitative Arbitrage Briefings by Harris Legacy Venturez LLC (CAGE 9YGC1).</description>
+    <item>
+      <title>Why 94% of Defense Contractors Fail NIST 800-171 CUI Audits (And How a 5ms Zero-Trust Firewall Fixes It)</title>
+      <link>https://github.com/jharris-maker/obsidian-cyber-quant-tv/releases/download/v1.0.0/EP01_Ultron_CMMC_Zero_Trust_Short.mp4</link>
+      <description>Narrated by ULTRON · Primary Blueprint: https://buy.stripe.com/9B67sMe6ba1TaWz4Zm9ws01 ($49 CMMC 2.0 110-Control SSP Pack)</description>
+      <enclosure url="https://github.com/jharris-maker/obsidian-cyber-quant-tv/releases/download/v1.0.0/EP01_Ultron_CMMC_Zero_Trust_Short.mp4" length="771126" type="video/mp4" />
+      <guid isPermaLink="false">EP01_Ultron_CMMC_Zero_Trust_Short</guid>
+    </item>
+    <item>
+      <title>Autonomous Prediction-Market & Quant Arbitrage: Kalshi CFTC + Polymarket CLOB + NOAA Sensor Alpha</title>
+      <link>https://github.com/jharris-maker/obsidian-cyber-quant-tv/releases/download/v1.0.0/EP02_Vision_Kalshi_Polymarket_Quant_Arb.mp4</link>
+      <description>Narrated by VISION · Primary Blueprint: https://buy.stripe.com/fZu14o1jp1vn7KnezW9ws03 ($149 Air-Gapped Zero-Trust LLM & Quant Docker Blueprint)</description>
+      <enclosure url="https://github.com/jharris-maker/obsidian-cyber-quant-tv/releases/download/v1.0.0/EP02_Vision_Kalshi_Polymarket_Quant_Arb.mp4" length="583021" type="video/mp4" />
+      <guid isPermaLink="false">EP02_Vision_Kalshi_Polymarket_Quant_Arb</guid>
+    </item>
+    <item>
+      <title>God's Eye 4D & CertiSafe CBF: How Control Barrier Functions Stop Autonomous Drone Collisions in 1.4ms</title>
+      <link>https://github.com/jharris-maker/obsidian-cyber-quant-tv/releases/download/v1.0.0/EP03_TChalla_GodsEye_4D_Physical_AI.mp4</link>
+      <description>Narrated by TCHALLA · Primary Blueprint: https://buy.stripe.com/8x200k8LRa1TggT4Zm9ws07 ($299 NVIDIA Cosmos + Isaac Lab 10K Synthetic Dataset)</description>
+      <enclosure url="https://github.com/jharris-maker/obsidian-cyber-quant-tv/releases/download/v1.0.0/EP03_TChalla_GodsEye_4D_Physical_AI.mp4" length="641936" type="video/mp4" />
+      <guid isPermaLink="false">EP03_TChalla_GodsEye_4D_Physical_AI</guid>
+    </item>
+    <item>
+      <title>Inside a 98.2% Autonomous Sovereign AI Enclave: 25 Daemons, Live Kalshi/Polymarket CLOBs & Zero-Trust Defense</title>
+      <link>https://github.com/jharris-maker/obsidian-cyber-quant-tv/releases/download/v1.0.0/EP04_Live_Daily_Cyber_Quant_Intel.mp4</link>
+      <description>Narrated by ULTRON · Primary Blueprint: https://buy.stripe.com/aFa28saTZ2zr3u70J69ws06 ($149 ObsidianScrub Zero-Trust MCP API Key)</description>
+      <enclosure url="https://github.com/jharris-maker/obsidian-cyber-quant-tv/releases/download/v1.0.0/EP04_Live_Daily_Cyber_Quant_Intel.mp4" length="721645" type="video/mp4" />
+      <guid isPermaLink="false">EP04_Live_Daily_Cyber_Quant_Intel</guid>
+    </item>
+  </channel>
+</rss>
