@@ -1,36 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Obsidian Core AI — Sovereign Defense, Cyber &amp; Quant Intelligence TV</title>
-    <link>https://github.com/jharris-maker/obsidian-cyber-quant-tv</link>
-    <description>Autonomous Physical AI, CMMC 2.0 Zero-Trust Cybersecurity, and Kalshi/Polymarket Quantitative Arbitrage Briefings by Harris Legacy Venturez LLC (CAGE 9YGC1).</description>
+    <title>Obsidian Core AI — Sovereign Defense, Cyber &amp; Quant Intelligence</title>
+    <link>https://obsidianridgedefense.com</link>
+    <language>en-us</language>
+    <copyright>2026 Harris Legacy Venturez LLC · Obsidian Ridge Defense Labs</copyright>
+    <itunes:author>Harris Legacy Venturez LLC (Commander John Harris)</itunes:author>
+    <description>Autonomous Physical AI, CMMC 2.0 Zero-Trust Cybersecurity, and Kalshi/Polymarket Quantitative Arbitrage Briefings by Harris Legacy Venturez LLC · Obsidian Ridge Defense Labs (CAGE 9YGC1). INSTANT SELF-SERVE SOVEREIGN AI &amp; DEFENSE ARSENAL (30-Second Auto-Delivery):&#10;• $49 CMMC 2.0 / NIST 800-171 (110-Control) SSP + POA&amp;M Pack: https://buy.stripe.com/9B67sMe6ba1TaWz4Zm9ws01&#10;• $99 5-Minute GitHub Repo Security &amp; ERC-4626 Audit: https://buy.stripe.com/dRm28s1jp3DvaWz0J69ws05&#10;• $99 NDAA FY2026 Section 889 Audit Kit: https://buy.stripe.com/fZueVe9PVde56Gj3Vi9ws02&#10;• $149 ObsidianScrub Zero-Trust CUI/PII MCP Key: https://buy.stripe.com/aFa28saTZ2zr3u70J69ws06&#10;• $149 Air-Gapped Zero-Trust Local LLM Docker Blueprint: https://buy.stripe.com/fZu14o1jp1vn7KnezW9ws03&#10;• $299 NVIDIA Cosmos + Isaac Lab 10K Synthetic Dataset: https://buy.stripe.com/8x200k8LRa1TggT4Zm9ws07&#10;• $299 DoD SBIR / STTR Phase I Blueprint Pack: https://buy.stripe.com/28E5kE7HNfmdc0DgI49ws04&#10;• $2,500 7-Day Scoped Sovereign Enclave Benchmark: https://buy.stripe.com/28E5kEd27a1TfcPajG9ws00&#10;• Portal: https://obsidianridgedefense.com</description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>John Harris</itunes:name>
+      <itunes:email>jharris@harrislegacyventurez.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>jharris@harrislegacyventurez.com (John Harris)</managingEditor>
+    <itunes:image href="https://raw.githubusercontent.com/jharris-maker/obsidian-cyber-quant-tv/main/podcast_cover_1400.png"/>
+    <image>
+      <url>https://raw.githubusercontent.com/jharris-maker/obsidian-cyber-quant-tv/main/podcast_cover_1400.png</url>
+      <title>Obsidian Core AI — Sovereign Defense, Cyber &amp; Quant Intelligence</title>
+      <link>https://obsidianridgedefense.com</link>
+    </image>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Why 94% of Defense Contractors Fail NIST 800-171 CUI Audits (And How a 5ms Zero-Trust Firewall Fixes It)</title>
-      <link>https://github.com/jharris-maker/obsidian-cyber-quant-tv/releases/download/v1.0.0/EP01_Ultron_CMMC_Zero_Trust_Short.mp4</link>
-      <description>Narrated by ULTRON · Primary Blueprint: https://buy.stripe.com/9B67sMe6ba1TaWz4Zm9ws01 ($49 CMMC 2.0 110-Control SSP Pack)</description>
-      <enclosure url="https://github.com/jharris-maker/obsidian-cyber-quant-tv/releases/download/v1.0.0/EP01_Ultron_CMMC_Zero_Trust_Short.mp4" length="771126" type="video/mp4" />
+      <description>INSTANT SELF-SERVE SOVEREIGN AI &amp; DEFENSE ARSENAL (30-Second Auto-Delivery):&#10;• $49 CMMC 2.0 / NIST 800-171 (110-Control) SSP + POA&amp;M Pack: https://buy.stripe.com/9B67sMe6ba1TaWz4Zm9ws01&#10;• $99 5-Minute GitHub Repo Security &amp; ERC-4626 Audit: https://buy.stripe.com/dRm28s1jp3DvaWz0J69ws05&#10;• $99 NDAA FY2026 Section 889 Audit Kit: https://buy.stripe.com/fZueVe9PVde56Gj3Vi9ws02&#10;• $149 ObsidianScrub Zero-Trust CUI/PII MCP Key: https://buy.stripe.com/aFa28saTZ2zr3u70J69ws06&#10;• $149 Air-Gapped Zero-Trust Local LLM Docker Blueprint: https://buy.stripe.com/fZu14o1jp1vn7KnezW9ws03&#10;• $299 NVIDIA Cosmos + Isaac Lab 10K Synthetic Dataset: https://buy.stripe.com/8x200k8LRa1TggT4Zm9ws07&#10;• $299 DoD SBIR / STTR Phase I Blueprint Pack: https://buy.stripe.com/28E5kE7HNfmdc0DgI49ws04&#10;• $2,500 7-Day Scoped Sovereign Enclave Benchmark: https://buy.stripe.com/28E5kEd27a1TfcPajG9ws00&#10;• Portal: https://obsidianridgedefense.com</description>
+      <pubDate>Sun, 08 Nov 2026 20:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/jharris-maker/obsidian-cyber-quant-tv/releases/download/v1.0.0/EP01_Ultron_CMMC_Zero_Trust_Short_voice.mp3" length="1091564" type="audio/mpeg"/>
       <guid isPermaLink="false">EP01_Ultron_CMMC_Zero_Trust_Short</guid>
+      <itunes:duration>00:01:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Autonomous Prediction-Market & Quant Arbitrage: Kalshi CFTC + Polymarket CLOB + NOAA Sensor Alpha</title>
-      <link>https://github.com/jharris-maker/obsidian-cyber-quant-tv/releases/download/v1.0.0/EP02_Vision_Kalshi_Polymarket_Quant_Arb.mp4</link>
-      <description>Narrated by VISION · Primary Blueprint: https://buy.stripe.com/fZu14o1jp1vn7KnezW9ws03 ($149 Air-Gapped Zero-Trust LLM & Quant Docker Blueprint)</description>
-      <enclosure url="https://github.com/jharris-maker/obsidian-cyber-quant-tv/releases/download/v1.0.0/EP02_Vision_Kalshi_Polymarket_Quant_Arb.mp4" length="583021" type="video/mp4" />
+      <title>Autonomous Prediction-Market &amp; Quant Arbitrage: Kalshi CFTC + Polymarket CLOB + NOAA Sensor Alpha</title>
+      <description>INSTANT SELF-SERVE SOVEREIGN AI &amp; DEFENSE ARSENAL (30-Second Auto-Delivery):&#10;• $49 CMMC 2.0 / NIST 800-171 (110-Control) SSP + POA&amp;M Pack: https://buy.stripe.com/9B67sMe6ba1TaWz4Zm9ws01&#10;• $99 5-Minute GitHub Repo Security &amp; ERC-4626 Audit: https://buy.stripe.com/dRm28s1jp3DvaWz0J69ws05&#10;• $99 NDAA FY2026 Section 889 Audit Kit: https://buy.stripe.com/fZueVe9PVde56Gj3Vi9ws02&#10;• $149 ObsidianScrub Zero-Trust CUI/PII MCP Key: https://buy.stripe.com/aFa28saTZ2zr3u70J69ws06&#10;• $149 Air-Gapped Zero-Trust Local LLM Docker Blueprint: https://buy.stripe.com/fZu14o1jp1vn7KnezW9ws03&#10;• $299 NVIDIA Cosmos + Isaac Lab 10K Synthetic Dataset: https://buy.stripe.com/8x200k8LRa1TggT4Zm9ws07&#10;• $299 DoD SBIR / STTR Phase I Blueprint Pack: https://buy.stripe.com/28E5kE7HNfmdc0DgI49ws04&#10;• $2,500 7-Day Scoped Sovereign Enclave Benchmark: https://buy.stripe.com/28E5kEd27a1TfcPajG9ws00&#10;• Portal: https://obsidianridgedefense.com</description>
+      <pubDate>Sun, 08 Nov 2026 21:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/jharris-maker/obsidian-cyber-quant-tv/releases/download/v1.0.0/EP02_Vision_Kalshi_Polymarket_Quant_Arb_voice.mp3" length="786764" type="audio/mpeg"/>
       <guid isPermaLink="false">EP02_Vision_Kalshi_Polymarket_Quant_Arb</guid>
+      <itunes:duration>00:00:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>God's Eye 4D & CertiSafe CBF: How Control Barrier Functions Stop Autonomous Drone Collisions in 1.4ms</title>
-      <link>https://github.com/jharris-maker/obsidian-cyber-quant-tv/releases/download/v1.0.0/EP03_TChalla_GodsEye_4D_Physical_AI.mp4</link>
-      <description>Narrated by TCHALLA · Primary Blueprint: https://buy.stripe.com/8x200k8LRa1TggT4Zm9ws07 ($299 NVIDIA Cosmos + Isaac Lab 10K Synthetic Dataset)</description>
-      <enclosure url="https://github.com/jharris-maker/obsidian-cyber-quant-tv/releases/download/v1.0.0/EP03_TChalla_GodsEye_4D_Physical_AI.mp4" length="641936" type="video/mp4" />
+      <title>God's Eye 4D &amp; CertiSafe CBF: How Control Barrier Functions Stop Autonomous Drone Collisions in 1.4ms</title>
+      <description>INSTANT SELF-SERVE SOVEREIGN AI &amp; DEFENSE ARSENAL (30-Second Auto-Delivery):&#10;• $49 CMMC 2.0 / NIST 800-171 (110-Control) SSP + POA&amp;M Pack: https://buy.stripe.com/9B67sMe6ba1TaWz4Zm9ws01&#10;• $99 5-Minute GitHub Repo Security &amp; ERC-4626 Audit: https://buy.stripe.com/dRm28s1jp3DvaWz0J69ws05&#10;• $99 NDAA FY2026 Section 889 Audit Kit: https://buy.stripe.com/fZueVe9PVde56Gj3Vi9ws02&#10;• $149 ObsidianScrub Zero-Trust CUI/PII MCP Key: https://buy.stripe.com/aFa28saTZ2zr3u70J69ws06&#10;• $149 Air-Gapped Zero-Trust Local LLM Docker Blueprint: https://buy.stripe.com/fZu14o1jp1vn7KnezW9ws03&#10;• $299 NVIDIA Cosmos + Isaac Lab 10K Synthetic Dataset: https://buy.stripe.com/8x200k8LRa1TggT4Zm9ws07&#10;• $299 DoD SBIR / STTR Phase I Blueprint Pack: https://buy.stripe.com/28E5kE7HNfmdc0DgI49ws04&#10;• $2,500 7-Day Scoped Sovereign Enclave Benchmark: https://buy.stripe.com/28E5kEd27a1TfcPajG9ws00&#10;• Portal: https://obsidianridgedefense.com</description>
+      <pubDate>Sun, 08 Nov 2026 22:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/jharris-maker/obsidian-cyber-quant-tv/releases/download/v1.0.0/EP03_TChalla_GodsEye_4D_Physical_AI_voice.mp3" length="239472" type="audio/mpeg"/>
       <guid isPermaLink="false">EP03_TChalla_GodsEye_4D_Physical_AI</guid>
+      <itunes:duration>00:00:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Inside a 98.2% Autonomous Sovereign AI Enclave: 25 Daemons, Live Kalshi/Polymarket CLOBs & Zero-Trust Defense</title>
-      <link>https://github.com/jharris-maker/obsidian-cyber-quant-tv/releases/download/v1.0.0/EP04_Live_Daily_Cyber_Quant_Intel.mp4</link>
-      <description>Narrated by ULTRON · Primary Blueprint: https://buy.stripe.com/aFa28saTZ2zr3u70J69ws06 ($149 ObsidianScrub Zero-Trust MCP API Key)</description>
-      <enclosure url="https://github.com/jharris-maker/obsidian-cyber-quant-tv/releases/download/v1.0.0/EP04_Live_Daily_Cyber_Quant_Intel.mp4" length="721645" type="video/mp4" />
+      <title>Inside a 98.2% Autonomous Sovereign AI Enclave: 25 Daemons, Live Kalshi/Polymarket CLOBs &amp; Zero-Trust Defense</title>
+      <description>INSTANT SELF-SERVE SOVEREIGN AI &amp; DEFENSE ARSENAL (30-Second Auto-Delivery):&#10;• $49 CMMC 2.0 / NIST 800-171 (110-Control) SSP + POA&amp;M Pack: https://buy.stripe.com/9B67sMe6ba1TaWz4Zm9ws01&#10;• $99 5-Minute GitHub Repo Security &amp; ERC-4626 Audit: https://buy.stripe.com/dRm28s1jp3DvaWz0J69ws05&#10;• $99 NDAA FY2026 Section 889 Audit Kit: https://buy.stripe.com/fZueVe9PVde56Gj3Vi9ws02&#10;• $149 ObsidianScrub Zero-Trust CUI/PII MCP Key: https://buy.stripe.com/aFa28saTZ2zr3u70J69ws06&#10;• $149 Air-Gapped Zero-Trust Local LLM Docker Blueprint: https://buy.stripe.com/fZu14o1jp1vn7KnezW9ws03&#10;• $299 NVIDIA Cosmos + Isaac Lab 10K Synthetic Dataset: https://buy.stripe.com/8x200k8LRa1TggT4Zm9ws07&#10;• $299 DoD SBIR / STTR Phase I Blueprint Pack: https://buy.stripe.com/28E5kE7HNfmdc0DgI49ws04&#10;• $2,500 7-Day Scoped Sovereign Enclave Benchmark: https://buy.stripe.com/28E5kEd27a1TfcPajG9ws00&#10;• Portal: https://obsidianridgedefense.com</description>
+      <pubDate>Sun, 08 Nov 2026 23:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/jharris-maker/obsidian-cyber-quant-tv/releases/download/v1.0.0/EP04_Live_Daily_Cyber_Quant_Intel_voice.mp3" length="985004" type="audio/mpeg"/>
       <guid isPermaLink="false">EP04_Live_Daily_Cyber_Quant_Intel</guid>
+      <itunes:duration>00:01:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
 </rss>
